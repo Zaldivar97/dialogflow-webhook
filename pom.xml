@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sv.edu.ues</groupId>
-	<artifactId>spring-rest-server-1</artifactId>
+	<artifactId>dialogflow-webhook</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-rest-server-1</name>
+	<name>dialogflow-webhook</name>
 	<description>Dialogflow webhook fullfilment</description>
 
 	<properties>
